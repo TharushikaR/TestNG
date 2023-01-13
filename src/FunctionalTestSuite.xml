@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FunctionalTestSuite">
+    <test name="FunctionalTests">
+        <classes>
+            <class name="PaymentTest"/>
+            <class name="PaymentReturns"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MasterTestSuite">
+    <suite-files>
+        <suite-file path="SanityTestSuite.xml"/>
+        <suite-file path="MasterTestSuite.xml"/>
+    </suite-files>
+</suite>
